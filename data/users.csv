@@ -1,4 +1,4 @@
-,user_id,age,gender,occupation
+user_id,age,gender,occupation
 0,1,24,M,technician
 1,2,53,F,other
 2,3,23,M,writer
